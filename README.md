@@ -43,3 +43,5 @@ Layihədə satış əməliyyatları əsasında müxtəlif KPI-lar hesablanmış 
 - Dashboardun vizual yerləşimi üçün strukturlaşdırma
 
 ------------------------------------------------------------------------------
+## DataSet Used 
+- <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/sample%20(Recovered).xlsx">DataSet</a>
