@@ -28,6 +28,12 @@ It uses sales transaction data to calculate KPIs and visualize key metrics such 
 ## Dasboard 
 ![Screenshot 2025-06-21 132509](https://github.com/user-attachments/assets/3e5231ba-ab51-4c70-98f8-b0d8951e1bdf)
 
+
+## Conclusion
+This project marks my first step into data analytics using Microsoft Excel.
+Through this dashboard, I gained hands-on experience with pivot tables, slicers, KPI creation, and turning raw data into meaningful visuals.
+I’m proud of this milestone and excited to continue learning tools like Power BI, SQL, and Python to deepen my skills in data analytics and business intelligence.
+
 --------------------------------------------------------
 ## Azərbaycan
 
