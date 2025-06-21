@@ -2,10 +2,6 @@
 # Excel Sales & Discount Dashboard 
 
 ## English
-
-This is a sample interactive dashboard built in Microsoft Excel for analyzing sales performance and discount distribution.
-It uses sales transaction data to calculate KPIs and visualize key metrics such as:
-
 ## DataSet Used 
 - <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/sample%20(Recovered).xlsx">DataSet</a>
 
