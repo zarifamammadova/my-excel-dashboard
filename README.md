@@ -35,6 +35,16 @@ Through this dashboard, I gained hands-on experience with pivot tables, slicers,
 I’m proud of this milestone and excited to continue learning tools like Power BI, SQL, and Python to deepen my skills in data analytics and business intelligence.
 
 --------------------------------------------------------
+## License and Data Source
+
+This project is created for educational and personal learning purposes only.  
+The dataset used in this dashboard was sourced from the [Excel Online Practice](https://excel-practice-online.com/) website, which provides publicly available sample data for Excel training.
+
+All data rights belong to their respective owners.  
+No commercial use is intended.
+
+
+--------------------------------------------------------
 ## Azərbaycan
 
 Bu, Microsoft Excel vasitəsilə hazırlanmış satış və endirim analizinə yönəlik nümunəvi interaktiv dashboard layihəsidir.
