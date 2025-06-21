@@ -1,2 +1,45 @@
-# my-excel-dashboard
-This is my very first interactive dashboard built using Microsoft Excel. It provides visual insights into sales performance, actual vs. list prices, and discount rates across different countries, regions, and stores.
+------------------------------------------------------
+# Excel Sales & Discount Dashboard 
+
+## English
+
+This is a sample interactive dashboard built in Microsoft Excel for analyzing sales performance and discount distribution.
+It uses sales transaction data to calculate KPIs and visualize key metrics such as:
+
+###  Features:
+- Total and average actual sales revenue  
+- Average and total discount percentage  
+- List Price vs Actual Price difference  
+- Sales distribution by Country, Region, and Store  
+- Product and salesperson-level sales insights  
+- Slicers for interactive filtering (Country, Region, Store)
+
+###  Tools Used:
+- Microsoft Excel  
+- Pivot Tables and Pivot Charts  
+- Slicers  
+- Custom KPIs & Formulas  
+- Basic Dashboard layout with interactive elements
+--------------------------------------------------------
+## Azərbaycan
+
+Bu, Microsoft Excel vasitəsilə hazırlanmış satış və endirim analizinə yönəlik nümunəvi interaktiv dashboard layihəsidir.
+
+Layihədə satış əməliyyatları əsasında müxtəlif KPI-lar hesablanmış və vizual olaraq təqdim edilmişdir.
+
+### Əsas funksiyalar:
+- Ümumi və orta faktiki satış məbləği  
+- Orta və ümumi endirim faizi  
+- Siyahı qiyməti ilə faktiki qiymət arasındakı fərq  
+- Satışların ölkə, region və mağaza üzrə bölgüsü  
+- Məhsul və satış əməkdaşı səviyyəsində təhlil  
+- İnteraktiv filtr funksiyası (Country, Region, Store slicer-ləri)
+
+### İstifadə olunan alətlər:
+- Microsoft Excel  
+- Pivot cədvəllər və pivot qrafiklər  
+- Slicer-lərlə interaktiv analiz  
+- KPI-lar və sadə Excel formulları  
+- Dashboardun vizual yerləşimi üçün strukturlaşdırma
+
+------------------------------------------------------------------------------
