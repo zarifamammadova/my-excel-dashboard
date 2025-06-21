@@ -6,6 +6,9 @@
 This is a sample interactive dashboard built in Microsoft Excel for analyzing sales performance and discount distribution.
 It uses sales transaction data to calculate KPIs and visualize key metrics such as:
 
+## DataSet Used 
+- <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/sample%20(Recovered).xlsx">DataSet</a>
+
 ###  Features:
 - Total and average actual sales revenue  
 - Average and total discount percentage  
@@ -41,7 +44,3 @@ Layihədə satış əməliyyatları əsasında müxtəlif KPI-lar hesablanmış 
 - Slicer-lərlə interaktiv analiz  
 - KPI-lar və sadə Excel formulları  
 - Dashboardun vizual yerləşimi üçün strukturlaşdırma
-
-------------------------------------------------------------------------------
-## DataSet Used 
-- <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/sample%20(Recovered).xlsx">DataSet</a>
