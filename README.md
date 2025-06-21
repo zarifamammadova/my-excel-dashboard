@@ -24,6 +24,10 @@ It uses sales transaction data to calculate KPIs and visualize key metrics such 
 - Custom KPIs & Formulas  
 - Basic Dashboard layout with interactive elements
 - Dashboard interaction <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/Screenshot%202025-06-21%20132509.png">View Dashboard</a>
+
+## Dasboard 
+![Screenshot 2025-06-21 132509](https://github.com/user-attachments/assets/3e5231ba-ab51-4c70-98f8-b0d8951e1bdf)
+
 --------------------------------------------------------
 ## Azərbaycan
 
