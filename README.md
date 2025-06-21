@@ -23,6 +23,7 @@ It uses sales transaction data to calculate KPIs and visualize key metrics such 
 - Slicers  
 - Custom KPIs & Formulas  
 - Basic Dashboard layout with interactive elements
+- Dashboard interaction <a href="https://github.com/zarifamammadova/my-excel-dashboard/blob/main/Screenshot%202025-06-21%20132509.png">View Dashboard</a>
 --------------------------------------------------------
 ## Azərbaycan
 
