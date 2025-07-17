@@ -40,27 +40,4 @@ All data rights belong to their respective owners.
 No commercial use is intended.
 
 
---------------------------------------------------------
-## Azərbaycan
 
-Bu, Microsoft Excel vasitəsilə hazırlanmış satış və endirim analizinə yönəlik nümunəvi interaktiv dashboard layihəsidir.
-
-Layihədə satış əməliyyatları əsasında müxtəlif KPI-lar hesablanmış və vizual olaraq təqdim edilmişdir.
-
-### Əsas funksiyalar:
-- Ümumi və orta faktiki satış məbləği  
-- Orta və ümumi endirim faizi  
-- Siyahı qiyməti ilə faktiki qiymət arasındakı fərq  
-- Satışların ölkə, region və mağaza üzrə bölgüsü  
-- Məhsul və satış əməkdaşı səviyyəsində təhlil  
-- İnteraktiv filtr funksiyası (Country, Region, Store slicer-ləri)
-
-### İstifadə olunan alətlər:
-- Microsoft Excel  
-- Pivot cədvəllər və pivot qrafiklər  
-- Slicer-lərlə interaktiv analiz  
-- KPI-lar və sadə Excel formulları  
-- Dashboardun vizual yerləşimi üçün strukturlaşdırma
-=======
-"# SQL_sample" 
->>>>>>> eb174fd (first commit)
