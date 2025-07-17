@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ------------------------------------------------------
 # Excel Sales & Discount Dashboard 
 
@@ -61,3 +62,6 @@ Layihədə satış əməliyyatları əsasında müxtəlif KPI-lar hesablanmış 
 - Slicer-lərlə interaktiv analiz  
 - KPI-lar və sadə Excel formulları  
 - Dashboardun vizual yerləşimi üçün strukturlaşdırma
+=======
+"# SQL_sample" 
+>>>>>>> eb174fd (first commit)
