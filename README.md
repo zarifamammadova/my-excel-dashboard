@@ -1,5 +1,4 @@
 
-------------------------------------------------------
 # Excel Sales & Discount Dashboard 
 
 ## English
